@@ -3,6 +3,17 @@ function niceLogger(){
     return "Hello World.";
 }
 
+function sampleTest() {
+    return "Heyy I'm a sample function."
+}
+
+function messageRepeater(messageToReapeat) {
+    // message repeater functionality
+    //stmts
+}
+
 module.exports = {
-    niceLogger
+    niceLogger, 
+    sampleTest,
+    messageRepeater
 }
