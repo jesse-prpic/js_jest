@@ -1,6 +1,6 @@
 function niceLogger(){
     console.log("Hello world!");
-    return "hello World.";
+    return "Hello World.";
 }
 
 module.exports = {
