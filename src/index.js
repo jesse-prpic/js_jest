@@ -5,4 +5,3 @@ const { niceLogger } = require("./niceLogger.js");
 
 // Import specific function from the file
 // const niceLoggerFunction =niceLoggerFile.niceLogger;
-
